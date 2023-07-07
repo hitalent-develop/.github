@@ -1,4 +1,5 @@
 <h1 align="left">HiTalent Inc. Repository</h1>
+<h3 align="left">https://hitalent.me</h3>
 <h3 align="left">https://hitalent.co.jp</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitalent-develop&label=Profile%20views&color=0e75b6&style=flat" alt="hitalent-develop" /> </p>
