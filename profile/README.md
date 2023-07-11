@@ -1,4 +1,5 @@
 <h1 align="left">HiTalent Inc. Repository</h1>
+<img src="https://github.com/hitalent-develop/.github/blob/main/profile/eyecatch.png" alt="hitalent-develop" />
 <h3 align="left">https://hitalent.me</h3>
 <h3 align="left">https://hitalent.co.jp</h3>
 
